@@ -4,10 +4,10 @@
 //////////////////////////
 
 //Your E-mail
-$your_email = 'your@email.com';
+$your_email = 'adimnaka@gmail.com';
 
 //Default Subject if 'subject' field not specified
-$default_subject = 'From My Contact Form';
+$default_subject = 'Tribute for Hon Frank Anthony Igboka';
 
 //Message if 'name' field not specified
 $name_not_specified = 'Please type a valid name';
